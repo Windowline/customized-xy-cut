@@ -16,7 +16,3 @@
 ### xy-cut(https://github.com/Sanster/xy-cut)
 <img width="550" alt="image" src="https://media.github.kakaocorp.com/user/10419/files/93db838c-bd94-4977-b1a4-e2a2d1172101">
 
-
-
-## 기타 자료
-https://www.notion.so/kakaobrain/paper-friendly-xy-cut-1d09aa523d17495a9310abf2a0063d8f
