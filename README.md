@@ -1,18 +1,19 @@
 ## Comparing Algorithm
-### paper-friendly-xy-cut(left-first-xy-cut)
-![paper_frendly_xy_h2](https://media.github.kakaocorp.com/user/10419/files/34d221fa-c2fb-4109-a9df-76d52f6497d6)
-
+### customized-xy-cut
+![paper_frendly_xy_h2](https://github.com/Windowline/customized-xy-cut/assets/17508384/ea80fc70-2d33-45a5-9897-c2a067e0d036)
 
 ### xy-cut
-![xy_cut_new](https://media.github.kakaocorp.com/user/10419/files/f120313f-ed87-4035-8a1e-f6588b1decf5)
+![xy_cut_new](https://github.com/Windowline/customized-xy-cut/assets/17508384/fa6f3a5b-2177-4927-88f8-ac33fe34a51b)
 
 
 ## Example
 #### run ```python sample.py```
 
-### paper-friendly-xy-cut(left-first-xy-cut)
-<img width="550" alt="image" src="https://media.github.kakaocorp.com/user/10419/files/45a8d022-5fc6-4ead-b12c-cdb7f800b48c">
+### customized-xy-cut
+![result3](https://github.com/Windowline/customized-xy-cut/assets/17508384/82c1d2fa-17ec-42f7-a7f7-6857abfa09ee)
+
 
 ### xy-cut(https://github.com/Sanster/xy-cut)
-<img width="550" alt="image" src="https://media.github.kakaocorp.com/user/10419/files/93db838c-bd94-4977-b1a4-e2a2d1172101">
+![result3](https://github.com/Windowline/customized-xy-cut/assets/17508384/434288a6-b02e-43ef-b380-bc5738c12d63)
+
 
