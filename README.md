@@ -1,5 +1,8 @@
 ## Example
-#### run ```python sample.py```
+#### run 
+```
+python sample.py
+```
 
 
 ## Comparing Algorithm
